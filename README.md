@@ -44,3 +44,5 @@ Exécution de terraform apply  pour créer l'infrastructure.
 
 Nettoyage pour tuer l'infra: 
 Utilisation de terraform destroy pour supprimer l'infrastructure lorsque vous avez terminé.
+
+difficulter rencontrer: porbleme de creation de compte aws, aws a ban mon pc fixe pour la creation de compte. Code Ami, type d'instance)
