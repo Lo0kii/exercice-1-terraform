@@ -31,16 +31,16 @@ Installez l'AWS CLI et configurez les informations d'identification AWS à l'aid
 Créez un fichier principal, généralement nommé main.tf, dans votre répertoire de projet.
 Configurez le provider AWS en spécifiant la région, par exemple :
 
-# main.tf
+ (main.tf)
 
-# Configure AWS Provider
+ Configure AWS Provider
 provider "aws" {
   region = "us-west-3"
   access_key = "*"
   secret_key = "*"
 }
 
-# Define an AWS EC2 Instance
+ (Define an AWS EC2 Instance)
 resource "aws_instance" "tst" {
   ami           = "ami-0302f42a44bf53a45"
   instance_type = "t2.micro"
