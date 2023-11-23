@@ -1,0 +1,22 @@
+# Ignore le répertoire .terraform
+.terraform/
+
+# Ignore les fichiers de configuration locaux qui peuvent contenir des informations sensibles
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.*
+
+# Ignore les fichiers de plan d'exécution qui peuvent contenir des informations sensibles
+*.tfplan
+
+# Ignore les fichiers de configuration de l'override
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore les fichiers de journalisation CLI
+.terraformrc
+terraform.rc
