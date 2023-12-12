@@ -46,3 +46,5 @@ Nettoyage pour tuer l'infra:
 Utilisation de terraform destroy pour supprimer l'infrastructure lorsque vous avez terminé.
 
 difficulter rencontrer: porbleme de creation de compte aws, aws a ban mon pc fixe pour la creation de compte. Code Ami, type d'instance)
+
+pour cet exercice j'ai utiliser en partie les informations présente sur ce site: https://devopssec.fr/article/premiere-infrastructure-aws-terraform#begin-article-section
