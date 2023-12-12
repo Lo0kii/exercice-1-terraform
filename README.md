@@ -1,6 +1,6 @@
 # angelo.magalhaes
-ynov
- Crée un dossier "terraform"  qui vous servira pour cet exercices 
+
+On Crée un dossier "terraform"  qui servira pour cet exercices 
 
 ![image](https://github.com/Lo0kii/angelo.magalhaes/assets/109228312/d8615659-c7ec-4171-9b8b-f1969ad08e44)
 
@@ -47,4 +47,4 @@ Utilisation de terraform destroy pour supprimer l'infrastructure lorsque vous av
 
 difficulter rencontrer: porbleme de creation de compte aws, aws a ban mon pc fixe pour la creation de compte. Code Ami, type d'instance)
 
-pour cet exercice j'ai utiliser en partie les informations présente sur ce site: https://devopssec.fr/article/premiere-infrastructure-aws-terraform#begin-article-section
+pour cet exercice j'ai utiliser en partie les informations présente sur ce site: https://devopssec.fr/article/premiere-infrastructure-aws-terraform#begin-article-section 
